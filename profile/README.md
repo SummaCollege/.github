@@ -1,4 +1,4 @@
-# Welkom bij de Summa College Organisatie! 👋
+# Welkom bij de Summa College GitHub-Organisatie! 👋
 
 Hé hallo! Dit is de hoofdpagina van de **Summa College GitHub-organisatie** binnen onze GitHub Enterprise-omgeving.
 
